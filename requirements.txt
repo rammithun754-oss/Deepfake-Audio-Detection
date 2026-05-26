@@ -1,0 +1,8 @@
+datasets
+transformers
+torch
+torchaudio
+soundfile
+sounddevice
+scikit-learn
+numpy
